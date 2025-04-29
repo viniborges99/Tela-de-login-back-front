@@ -10,4 +10,4 @@ Esse projeto me ajudou a reforçar conceitos importantes de componentização, r
 # Como utilizar o projeto
 No back-end basta digitar npm install para baixar as dependencias e para rodar o projeto utilize node --watch server.js
 
-No front-end utilizar o npm install e para rodar um npm run dev
+No front-end utilizar o npm install e para rodar use npm run dev
